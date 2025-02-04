@@ -7,4 +7,3 @@
 #
 layout: home
 ---
-# Lab Writeups
