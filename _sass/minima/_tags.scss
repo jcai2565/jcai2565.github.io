@@ -3,21 +3,21 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
 }
 
 .post-tag {
   display: inline-block;
   padding: 0.25rem 0.75rem;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: #e3f2fd; // Light blue background
   border-radius: 1rem;
   font-size: 0.8rem;
-  color: inherit;
+  color: #1976d2; // Darker blue text
   text-decoration: none;
   transition: background-color 0.2s ease;
 
   &:hover {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: #bbdefb; // Slightly darker blue on hover
     text-decoration: none;
   }
 }
