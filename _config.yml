@@ -1,4 +1,4 @@
-title: Fast Robots (Spring 2025)
+title: Fast Robots
 author:
   name: Jeffery Cai
   email: jc2565@cornell.edu
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is the page for MAE 4190 Fast Robots, where the 12 lab writeups will be hosted.
+  This is the page for MAE 4190 Fast Robots (Spring 2025), where the 12 lab writeups will be hosted.
   Click on the title of the website to go to the home page.
 
 # Build settings
