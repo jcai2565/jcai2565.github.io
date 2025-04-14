@@ -1,9 +1,3 @@
---- 
---- 
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
-@import "minima/tags";
-
 // Tag styles
 .post-tags {
   display: flex;
