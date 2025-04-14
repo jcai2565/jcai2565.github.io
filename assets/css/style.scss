@@ -1,5 +1,8 @@
---- 
---- 
+---
+/* Comments to block linter : DO NOT REMOVE*/
+---
+/* Comments to block linter*/
+
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
 @import "minima/tags";
